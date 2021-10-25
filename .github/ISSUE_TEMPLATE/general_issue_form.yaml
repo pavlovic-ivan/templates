@@ -1,5 +1,6 @@
 name: General issue
 description: New feature request or improvement
+project: Main Board
 body:
   - type: input
     id: project
