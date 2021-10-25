@@ -1,0 +1,17 @@
+name: General issue
+description: New feature request or improvement
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: "Please tell us for which project this issue is meant for"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Detailed description
+      description: "Provide a detailed description of the change or addition you are proposing"
+    validations:
+      required: true
