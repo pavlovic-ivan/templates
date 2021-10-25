@@ -1,6 +1,5 @@
 name: General issue
 description: New feature request or improvement
-labels: ["new-issues"]
 body:
   - type: input
     id: project
